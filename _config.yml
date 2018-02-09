@@ -28,7 +28,7 @@ baseurl: ''
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 markdown: kramdown
-gems: -jekyll-menus
+gems: "-jekyll-menus"
 descriptions:
 - cat: jekyll
   desc: Posts describing Jekyll setup techniques.
