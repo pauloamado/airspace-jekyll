@@ -1,7 +1,7 @@
 ---
 title: What about us ?
 date: 2018-02-09 10:19:00 Z
-layout: page
+layout: default
 ---
 
 Alan Mathison Turing, né le 23 juin 1912 à Londres et mort le 7 juin 1954 à Wilmslow, est un mathématicien et cryptologue britannique, auteur de travaux qui fondent scientifiquement l'informatique.
